@@ -1,7 +1,8 @@
 {
   "name": "klub-component-library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
+  "homepage": "https://github.com/utk0730/klub-component-library#readme",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "source": "src/index.js",
