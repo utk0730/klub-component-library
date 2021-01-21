@@ -1,11 +1,15 @@
 import React from 'react';
 
 function AvatarCard() {
-  return /*#__PURE__*/React.createElement("h1", null, "Hello World");
+  return /*#__PURE__*/React.createElement("h1", null, "Avatar component");
 }
 
 function Button() {
   return /*#__PURE__*/React.createElement("button", null, "Click me");
 }
 
-export { AvatarCard, Button };
+function Nav() {
+  return /*#__PURE__*/React.createElement("div", null, "Nav Bar");
+}
+
+export { AvatarCard, Button, Nav };
